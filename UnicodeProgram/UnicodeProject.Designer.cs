@@ -71,7 +71,7 @@
             this.Controls.Add(this.lblInstructions);
             this.Controls.Add(this.lstListBox);
             this.Name = "UnicodeProject";
-            this.Text = "Form1";
+            this.Text = "Unicode and Characters";
             this.ResumeLayout(false);
             this.PerformLayout();
 
